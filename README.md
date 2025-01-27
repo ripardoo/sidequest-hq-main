@@ -9,7 +9,7 @@
 
 ### 1. download
 click the green "Code" button and select "Download ZIP". make sure to extract the download in a safe spot!<br>
-![](https://i.imgur.com/TlzzORw.png)
+![](https://i.imgur.com/NjSbnRL.png)
 
 ### 2. turn on Developer mode
 in your browser head to the "Extensions" section. this can be found in the settings portion of your browser! checkout the screenshot below:<br>
