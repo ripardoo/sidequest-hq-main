@@ -1,11 +1,11 @@
-# buildspace os
+# Sidequest HQ
 
 ## setup
-### you don't need to write any code or know how to code to set this up. It will take 2 mins max — promise
+### you don't need to write any code or know how to code to set this up. It is quite easy and will take max 2 mins!
 
 **we even made a 2 min vid for you**
 
-[installing buildspcae os](https://github.com/buildspace/buildspace-os/assets/13204620/c19da4b4-1266-4772-ba4e-0fdd795df9f4)
+[Vid on installing the HQ](https://example.com)
 
 ### 1. download
 click the green "Code" button and select "Download ZIP". make sure to extract the download in a safe spot!<br>
